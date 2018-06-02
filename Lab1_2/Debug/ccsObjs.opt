@@ -1,0 +1,1 @@
+"./Echo.obj" "./GPIO_registers.obj" "../28335_RAM_lnk.cmd" -llibc.a 
